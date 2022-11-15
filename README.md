@@ -1,2 +1,2 @@
 # Market_Anomalies
-Python implementation for several market anomalies analysis 
+Python implementation for the analysis of several market anomalies  
